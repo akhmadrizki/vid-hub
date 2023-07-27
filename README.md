@@ -1,5 +1,10 @@
 # Video Hub
-> Based on [Laravel v10](https://laravel.com)
+
+| Framework      | Link                   |
+| :---           |    :----:              |
+| Laravel v.10   | https://laravel.com    |
+| React v.18     | https://react.dev/     |
+| Inertiajs      | https://inertiajs.com/ |
 
 ## Table of contents
 
