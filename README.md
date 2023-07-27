@@ -21,7 +21,7 @@ If Using VSCode Please install these extensions on your code editor :
 ## Setup
 1. Clone This Repository:
 ```sh
-$ git clone [https://github.com/(your username)/market-management-program.git](https://github.com/akhmadrizki/vid-hub.git)
+$ git clone https://github.com/akhmadrizki/vid-hub.git
 ```
 2. Copy file `.env.example` to `.env`:
 ```sh
